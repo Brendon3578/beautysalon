@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/beautysalon.jpg">
+    <img src=".github/beautysalon.JPG">
 </h1>
 
 <p align="center">
