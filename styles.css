@@ -59,7 +59,7 @@ img{
     --body-color: hsl(var(--hue) 6% 12%);
     --body-color-second: hsl(var(--hue) 6% 10%);
 
-    --icon-shadow:  3px 3px 2px rgba(0, 0, 0, 0.5);
+    --icon-shadow:  2px 2px 2px rgba(0, 0, 0, 0.5);
 
 }
 :root.darkmode img{
