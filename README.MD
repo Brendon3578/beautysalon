@@ -61,4 +61,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ☕ by [Brendon Gomes](https://github.com/Brendon3578)
+<h3 align="center">
+    Feito com ☕ por <a href="https://github.com/Brendon3578">Brendon Gomes</a>
+</h3>
