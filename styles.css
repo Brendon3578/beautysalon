@@ -663,7 +663,8 @@ footer .social a:hover{
     transition: .3s;
     text-shadow: var(--icon-shadow);
 
-    transform: translateY(100%)
+    transform: translateY(100%);
+    z-index: 100;
 }
 
 .back-to-top.show{
