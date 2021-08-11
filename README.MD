@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/beautysalon.JPG">
+    <img src=".github/beautysalon.JPG" alt="beautysalon">
 </h1>
 
 <p align="center">
@@ -12,11 +12,10 @@
 
 <p align="center">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
-    
 </p>
 
 <p align="center">
-    <img src=".github/beautysalonpreview.gif">
+    <img src=".github/beautysalonpreview.gif" alt="beautysalon preview">
 </p>
 
 ## 🛠 Tecnologias
