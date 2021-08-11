@@ -54,6 +54,7 @@ Funcionalidades criadas por mim, não elaborardas durante a trilha *Origin*.
 
 - [x] Botão de trocar a cor principal do site
 - [x] Light/Dark Mode Toggle Button
+- [x] Sombreamento em títulos e icones 
 
 ## 📝 Licença
 
